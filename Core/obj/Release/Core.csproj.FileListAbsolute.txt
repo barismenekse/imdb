@@ -1,0 +1,16 @@
+C:\Users\baris\Desktop\imdb\Core\bin\Release\Core.dll.config
+C:\Users\baris\Desktop\imdb\Core\bin\Release\Core.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Release\Core.pdb
+C:\Users\baris\Desktop\imdb\Core\bin\Release\Common.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Release\Data.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Release\EntityFramework.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Release\Common.pdb
+C:\Users\baris\Desktop\imdb\Core\bin\Release\Data.pdb
+C:\Users\baris\Desktop\imdb\Core\bin\Release\Data.dll.config
+C:\Users\baris\Desktop\imdb\Core\bin\Release\EntityFramework.xml
+C:\Users\baris\Desktop\imdb\Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\baris\Desktop\imdb\Core\obj\Release\Core.csprojAssemblyReference.cache
+C:\Users\baris\Desktop\imdb\Core\obj\Release\Core.csproj.CopyComplete
+C:\Users\baris\Desktop\imdb\Core\obj\Release\Core.dll
+C:\Users\baris\Desktop\imdb\Core\obj\Release\Core.pdb

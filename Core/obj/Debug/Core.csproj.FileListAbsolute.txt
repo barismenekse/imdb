@@ -1,0 +1,28 @@
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\Core.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\Core.pdb
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\Data.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\EntityFramework.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\Data.pdb
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\Data.dll.config
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\EntityFramework.xml
+C:\Users\baris\Desktop\imdb\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\baris\Desktop\imdb\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\baris\Desktop\imdb\Core\obj\Debug\Core.dll
+C:\Users\baris\Desktop\imdb\Core\obj\Debug\Core.pdb
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\Core.dll.config
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baris\Desktop\imdb\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\Core.dll.config
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\Core.dll
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\Core.pdb
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\Data.dll
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\EntityFramework.dll
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\Data.pdb
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\Data.dll.config
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\EntityFramework.xml
+C:\Users\baris\Desktop\imdb - Kopya\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baris\Desktop\imdb - Kopya\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\baris\Desktop\imdb - Kopya\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\baris\Desktop\imdb - Kopya\Core\obj\Debug\Core.dll
+C:\Users\baris\Desktop\imdb - Kopya\Core\obj\Debug\Core.pdb

@@ -1,0 +1,13 @@
+C:\Users\baris\Desktop\imdb\Data\bin\Release\Data.dll.config
+C:\Users\baris\Desktop\imdb\Data\bin\Release\Data.dll
+C:\Users\baris\Desktop\imdb\Data\bin\Release\Data.pdb
+C:\Users\baris\Desktop\imdb\Data\bin\Release\Common.dll
+C:\Users\baris\Desktop\imdb\Data\bin\Release\EntityFramework.dll
+C:\Users\baris\Desktop\imdb\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\baris\Desktop\imdb\Data\bin\Release\Common.pdb
+C:\Users\baris\Desktop\imdb\Data\bin\Release\EntityFramework.xml
+C:\Users\baris\Desktop\imdb\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\baris\Desktop\imdb\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\Users\baris\Desktop\imdb\Data\obj\Release\Data.csproj.CopyComplete
+C:\Users\baris\Desktop\imdb\Data\obj\Release\Data.dll
+C:\Users\baris\Desktop\imdb\Data\obj\Release\Data.pdb
